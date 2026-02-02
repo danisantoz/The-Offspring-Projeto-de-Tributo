@@ -7,5 +7,3 @@ Este projeto consiste em uma **página tributo**, criada com o objetivo de prati
 
 A proposta foi construir uma página simples, clara e temática, homenageando a banda The Offspring.
 
-📌 Status
-Finalizado
